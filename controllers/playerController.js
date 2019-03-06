@@ -1,4 +1,4 @@
-const Player = require('../models/player');
+const Player = require('../models/Player');
 const Room = require('../models/Room')
 
 exports.player_create = function (req, res, next) {
