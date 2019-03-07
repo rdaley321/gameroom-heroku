@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "46ca13cc8c5d0b55121e",
+    "revision": "45ffe1df3af794eef53e",
     "url": "/static/css/main.c2012174.chunk.css"
   },
   {
-    "revision": "46ca13cc8c5d0b55121e",
-    "url": "/static/js/main.46ca13cc.chunk.js"
+    "revision": "45ffe1df3af794eef53e",
+    "url": "/static/js/main.45ffe1df.chunk.js"
   },
   {
     "revision": "fdfcfda2d9b1bf31db52",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/static/media/fortnite-background-120.9bc32747.jpg"
   },
   {
-    "revision": "0a79990aa30d77ecc453a21a39344883",
+    "revision": "a9cb51e6adb39e2d1652d6b09b549820",
     "url": "/index.html"
   }
 ];
