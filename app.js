@@ -26,7 +26,7 @@ app.use(bodyParser.json())
 app.use(cors())
 router(app)
 
-const port = 8080
+const port = 80
 
 // the string passed into mongoose.connect() can be changed to whatever you want your database name to be. If it doesn't exist, MongoDB automatically creates it for you.
 console.log('Connecting to Local Database.');
